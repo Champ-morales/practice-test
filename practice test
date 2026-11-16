@@ -1,7 +1,1 @@
-snacks = []
 
-for i in range (5):
-  snack = input("Snack: ")
-  snacks.append(snack)
-
-print(snacks)
